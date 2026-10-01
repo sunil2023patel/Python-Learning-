@@ -1,0 +1,24 @@
+a=123
+b=34.5
+c=12+34j
+d=True
+a=str(a)
+b=str(b)
+c=str(c)
+d=str(d)
+print(a,b,c,d)
+a=12
+b=0
+c=12.4
+d=0.0
+e=""
+f="hello"
+print(bool(a))
+print(bool(b))
+print(bool(c))
+print(bool(d))
+print(bool(e))
+print(bool(f))
+# 7 values ->false =>0 0.0 "" [] () {} False
+a=12
+print(type(a/2))
