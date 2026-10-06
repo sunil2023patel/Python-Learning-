@@ -1,1 +1,1 @@
-exception error 
+print(b)
